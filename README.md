@@ -2,7 +2,7 @@ Web Developer & DevOps
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=HaidenR&show_icons=true)
 
-About me **Charlotte Haiden**!
+About me **HaidenR**!
 
 ---
 
